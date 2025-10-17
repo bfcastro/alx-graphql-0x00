@@ -1,0 +1,32 @@
+{
+    "data": {
+      "characters": {
+        "results": [
+          {
+            "id": "41",
+            "name": "Alien Morty",
+            "status": "unknown",
+            "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+          },
+          {
+            "id": "42",
+            "name": "Alien Rick",
+            "status": "unknown",
+            "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+          },
+          {
+            "id": "43",
+            "name": "Amish Cyborg",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+          },
+          {
+            "id": "44",
+            "name": "Annie",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+          }
+        ]
+      }
+    }
+}
