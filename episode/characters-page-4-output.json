@@ -1,0 +1,33 @@
+{
+    "data": {
+      "characters": {
+        "results": [
+          {
+            "id": "61",
+            "name": "Alien Googah",
+            "status": "unknown",
+            "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+          },
+          {
+            "id": "62",
+            "name": "Alien Morty (Cronenberg)",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+          },
+          {
+            "id": "63",
+            "name": "Alien Rick (Cronenberg)",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+          },
+          {
+            "id": "64",
+            "name": "Amish Cyborg (Alternate Reality)",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+          }
+         
+        ]
+      }
+    }
+  }
